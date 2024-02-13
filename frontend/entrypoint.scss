@@ -1,0 +1,5 @@
+@use 'sass:color';
+
+.example {
+    color: color.scale(#f00, $lightness: +20%)
+}

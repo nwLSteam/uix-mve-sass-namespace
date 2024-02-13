@@ -1,0 +1,4 @@
+.datex-cache/.dx
+.datex-cache/importmap.lock.json
+.datex-cache/uix-fallback-port
+deno.lock
